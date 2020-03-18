@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Itinerary", "Itinerary\Itinerary.csproj", "{4DEC4593-F28A-46A8-A8E7-74040A8AFDEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Itinerary.Tests", "Itinerary.Tests\Itinerary.Tests.csproj", "{58782578-FE3C-4E5E-96A8-E5B75ED31E18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DEC4593-F28A-46A8-A8E7-74040A8AFDEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DEC4593-F28A-46A8-A8E7-74040A8AFDEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DEC4593-F28A-46A8-A8E7-74040A8AFDEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DEC4593-F28A-46A8-A8E7-74040A8AFDEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58782578-FE3C-4E5E-96A8-E5B75ED31E18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58782578-FE3C-4E5E-96A8-E5B75ED31E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58782578-FE3C-4E5E-96A8-E5B75ED31E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58782578-FE3C-4E5E-96A8-E5B75ED31E18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {037608F7-D995-4A8E-9AB8-735206FB04D7}
+	EndGlobalSection
+EndGlobal
